@@ -9,3 +9,5 @@ The disease with the selected symptoms get displayed
 
 ![image](https://github.com/Praneet005/Medical_condition_predictor/assets/121420706/1000af9b-97fc-4815-9150-5732b8ce1a44)
 
+
+The dataset for the symptoms was downloaded from kaggle.com and the python code was used to fetch information directly from the CSV file.
