@@ -1,10 +1,8 @@
-# Medical_condition_predictor 
+# Medical condition predictor 
 
-Medical condition predictor is a Java application designed to assist healthcare professionals in predicting potential medical conditions based on the symptoms presented by a patient.
+Medical condition predictor is a Python application that helps users predict diseases based on selected symptoms.
 
-FEATURES
+Users can select their symptoms from the given list
+![image](https://github.com/Praneet005/Medical_condition_predictor/assets/121420706/c06d408e-b98a-4b14-ae0a-b210d38b2a1a)
 
-- Allows healthcare professionals to select symptoms from a provided list.
-- Queries a MySQL database to retrieve matching medical conditions associated with the selected symptoms.
-- Provides a user-friendly interface for efficient symptom selection and condition prediction.
 
